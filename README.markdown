@@ -13,7 +13,9 @@ App ID Sanity works in Safari and Google Chrome.
 
 ## Safari
 
-Grab the compiled extension ready to go from the [Downloads tab][downloads].
+[Install Now][safari-latest] 
+
+(Downloads the compiled extension from Amazon S3)
 
 ## Google Chrome
 
@@ -22,3 +24,4 @@ Install from the [Chrome Web Store][chrome-webstore].
 [chrome-webstore]: https://chrome.google.com/webstore/detail/dleofkjfblmgcedmhdankbcmhonjndne
 [so-herpes]: http://stackoverflow.com/questions/3004833/how-to-remove-app-ids-from-iphone-provisioning-portal/3004867#3004867
 [downloads]: https://github.com/simonwhitaker/app-id-sanity/downloads
+[safari-latest]: https://s3.amazonaws.com/app-id-sanity/app-id-sanity-1.6.safariextz
