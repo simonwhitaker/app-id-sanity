@@ -240,10 +240,6 @@ footer {
   body {
     padding:15px;
   }
-  
-  header ul {
-    display:none;
-  }
 }
 
 @media print {
