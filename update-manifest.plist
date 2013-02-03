@@ -10,11 +10,11 @@
        <key>Developer Identifier</key>
        <string>VW9QM42U4U</string>
        <key>CFBundleVersion</key>
-       <string>8</string>
+       <string>9</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.6</string>
+       <string>1.7</string>
        <key>URL</key>
-       <string>https://s3.amazonaws.com/app-id-sanity/app-id-sanity-1.6.safariextz</string>
+       <string>http://app-id-sanity.s3.amazonaws.com/app-id-sanity-1.7.safariextz</string>
      </dict>
    </array>
 </dict>
