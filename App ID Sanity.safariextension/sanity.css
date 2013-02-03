@@ -13,6 +13,10 @@ tr.inactive input.description {
     background-color: #ddd;
 }
 
+tr.inactive td p {
+    display: none;
+}
+
 .provprofilebadge .original_name {
     font-weight: normal;
     color: #555;
