@@ -87,7 +87,7 @@ if (document.location.href.match('/manage/bundles/index.action')) {
                 checkbox.click(function(event) {
                     var is_active = $(this).is(':checked');
                     bundleId.setActive(is_active);
-                    $(tr).toggleClass('inactive', !is_active);
+                    $(tr).toggleClass('inactive', !is_active, 400);
                 });
 
                 // Create a new <td> to store the active/inactive checkbox
